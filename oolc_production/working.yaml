@@ -2,5 +2,5 @@ project_id: personal_decoration_doorstop_spacer
 project_name: Personal Decoration Doorstop Spacer
 project_repo: https://github.com/oomlout/personal_decoration_doorstop_spacer
 production_format:
-  oolc_1:
+  oolc_1_personal_decoration_doorstop_spacer_main:
     file_location: source_files/oolc_1.cdr
